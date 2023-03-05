@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/test/index.html</loc>
+    <loc>https://aliothmoon.github.io/2023/03/04/Yaml/</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -11,9 +11,45 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/03/05/Java%20NIO/</loc>
+    <loc>https://aliothmoon.github.io/2023/03/03/Java%20NIO/</loc>
     
-    <lastmod>2022-11-07</lastmod>
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aliothmoon.github.io/2023/03/06/Git/</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aliothmoon.github.io/2023/03/05/Java%20GUI/</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aliothmoon.github.io/test/index-1.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aliothmoon.github.io/test/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://aliothmoon.github.io/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
